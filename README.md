@@ -1,7 +1,6 @@
-# eye-exercise
+# Eye movement exercise
 
-Eye movement exercise
-
+#### JavaScript Mouse Tracking Eyes
 ![screenshot](/screenshot.png)
 
 ## Overview
